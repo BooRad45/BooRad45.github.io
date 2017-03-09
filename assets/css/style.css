@@ -98,13 +98,16 @@ li a:hover {
 	width: 270px;
 	
 }
- .social-icons {
+.social-icons {
      padding-bottom: 50px;		
 }
 .social-icon-list {
 	margin: 0;
 }
 footer {
+	border-style: solid 15px;
+    border-top: thick double #4aaaa5;
+	border-color: #4aaaa5;
 	clear: both;
 	background-color: grey;
 	padding-top: 80px;
