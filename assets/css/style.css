@@ -39,7 +39,7 @@ h2 {
 }
 
 a {
-	color: #777777;
+	color: #4aaaa5;
 }
 .container {
 	width: 1680px;
@@ -208,7 +208,7 @@ img {
 
 /** All visual fluff **/
 html {
-  background: skyblue;
+  background: #fff;
   height: 100%;
 }
 .gallery {
@@ -220,4 +220,21 @@ html {
   min-width: 8em;
   min-height: 8em;
 }
+#hangman {
+    position: relative;
+    background-image: url(..assets/images/PortfolioImages/Hangman.jpeg);
+    
+}
+#pic-text {
+	margin-top: -50px; 
+	text-align: center; 
+	color: #fff;
+	z-index: 1;
+	background-color: #4aaaa5;
+	text-decoration: none;
+}
+
+
+
+
 
