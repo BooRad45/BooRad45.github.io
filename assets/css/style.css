@@ -45,7 +45,7 @@ a {
 	width: 1680px;
 	margin-left: 160px;
 	min-height: calc(100vh - 70px); /*sticky footer with calc function*/
-	margin-bottom: -170px;
+	margin-bottom: -180px;
 }
 .connect {
 	background-color: #fff;
