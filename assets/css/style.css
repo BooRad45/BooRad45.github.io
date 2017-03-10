@@ -45,6 +45,11 @@ a {
 	min-height: calc(100vh - 70px); /*sticky footer with calc function*/
 	margin-bottom: -170px;
 }
+.connect {
+	background-color: #fff;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
 
 ul {
     list-style-type: none;
