@@ -190,5 +190,34 @@ input[type=submit]:hover {
     font-family: 'Georgia', Times, Times New Roman, serif;
     color: #777;
 }
+/* Image Gallery on Portfolio Page*/
+.gallery {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.item {
+  flex: 1 0 15em;
+  margin: 1em;
+}
+img {
+  display: block;
+  width: 100%;
+}
 
+
+/** All visual fluff **/
+html {
+  background: skyblue;
+  height: 100%;
+}
+.gallery {
+  background: rgba(255,255,255,0.3);
+  margin: 1em 0;
+  padding: 1em;
+}
+.item {
+  min-width: 8em;
+  min-height: 8em;
+}
 
