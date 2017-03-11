@@ -1,8 +1,9 @@
 body {
-	background-image: url(..assets/images/cheap_diagonal_fabric.png);
-	background-color: beige;
+	background: url('..assets/images/concrete_seamless.png');
+	background-color: #fff;
 	font-family: 'Roboto Slab', serif;
-	margin: 0px;	
+	margin: 0px;
+	background-color: beige;	
 }
 section {
 	padding: 20px;
