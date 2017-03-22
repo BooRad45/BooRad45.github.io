@@ -42,7 +42,7 @@ a {
 	color: #4aaaa5;
 }
 .container {
-	width: 1500px;
+	width: 100vw;
 	margin-left: 160px;
 	min-height: calc(100vh - 70px); /*sticky footer with calc function*/
 	margin-bottom: -180px;
